@@ -1,0 +1,5 @@
+API_VERSION="2020-07"
+RESOURCE="customers"
+METHOD="PUT"
+
+NEWTAG="Final new test"
